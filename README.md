@@ -1,1 +1,3 @@
-# VirtualReality_Project_2
+# Surviving COVID
+## Abstract
+The main idea of the game is to navigate through multiple levels of this game without catching COVID virus. A player enters each level outside of a building, with a mask on and fully sanitized. Once the game starts, the player has to navigate through a map to reach entrance of another buliding. As the player progresses through the level, they have to dodge various particles of viruses in the air (whose occurrence depends on how populus the environment is). In case they encounter a virus once, they loose their mask. When they encounter the virus again, they loose health points and eventually get infected (loose the game). The player can find sanitizer stations and masks along the way at a few places to restock and replenish their health. The end goal is for the player to reach the finish point with a mask on and with a threshhold health level.
