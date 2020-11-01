@@ -28,3 +28,9 @@ This screen has options the playes can select to do the following:
 The Demo gives the player an idea of how to play the game, it is automated and the player does not need to do anything. It displayes rules and descriptions of various and all elements of the game.
 
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Demo.jpeg)
+
+### Beginner Level
+This level shows the map from West Hall to Computer Science Building at Texas Tech University. In this level, there are a lot of Sanitizer stations and Mask stands. There are no other people in this level. The appearance of virus particles depend on how the population flow is in that area.
+Here is the sketch of initial design of the level.
+
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Beginner%20Level.jpeg)
