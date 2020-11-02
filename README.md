@@ -35,9 +35,5 @@ Here is the sketch of initial design of the level.
 
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Beginner%20Level.jpeg)
 
-
-### Medium Level
-This level shows the map from West Hall to Student Union Building at Texas Tech University. In this level, there are a lot of Covid viruswhen compared to the beginner level, and less Sanitizer stations and Mask stands. There are other people in this level. The appearance of virus particles depend on how the population flow is in that area.
-Here is the sketch of initial design of the level.
-
-![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Medium_VR.png)
+### Expert Level
+This level shows the map fom West Hall to Media and Communications at Texas tech University. in this level, we increased the population, virus and decreased sanitizers and mask stand to level up the game. Sketch of this level is given below.
