@@ -40,8 +40,14 @@ This level shows the map from West Hall to Student Union Building at Texas Tech 
 Here is the sketch of initial design of the level.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Medium_VR.png)
 
-
 ### Expert Level
 This level shows the map fom West Hall to Media and Communications building at Texas tech University. In this level, we increased the population, virus and decreased sanitizers and mask stand to level up the game. Sketch of this level is given below.
 
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/ExpertLevel.png)
+
+## Mid Review Presentation Roles
+- Vamsi: Introduction, Abstract, Game Rules
+- Rohith: Start Screen, Demo, Beginner Level, Intermediate Level, Expert Level
+- Nikhila: Team Roles
+- Karishma: Questions
+We will talk about this tomorrow and finalize
