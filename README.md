@@ -1,12 +1,12 @@
 # 2020: Survival
 ## Abstract
-The main idea of the game is to navigate through multiple levels of this game without catching COVID virus. A player enters each level outside of a building, with a mask on and fully sanitized. Once the game starts, the player has to navigate through a map to reach entrance of another buliding. As the player progresses through the level, they have to dodge various particles of viruses in the air (whose occurrence depends on how populus the environment is). In case they encounter a virus once, they loose their mask. When they encounter the virus again, they loose health points and eventually get infected (loose the game). The player can find sanitizer stations and masks along the way at a few places to restock and replenish their health. The end goal is for the player to reach the finish point with a mask on and with a threshhold health level.
+The main idea of the game is to navigate through multiple levels of this game without catching COVID virus. A player enters each level outside of a building, with a mask on and fully sanitized. Once the game starts, the player has to navigate through a map to reach entrance of another building. As the player progresses through the level, they have to dodge various particles of viruses in the air (whose occurrence depends on how populous the environment is). In case they encounter a virus once, they lose their mask. When they encounter the virus again, they lose health points and eventually get infected (loose the game). The player can find sanitizer stations and masks along the way at a few places to restock and replenish their health. The end goal is for the player to reach the finish point with a mask on and with a threshold health level.
 
 ## Game Rules
-- Ojective of the player is to reach FINISH, from START, of the level with a mask on and threshhold health
+- Ojective of the player is to reach FINISH, from START, of the level with a mask on and threshold health
 - If the player loses health completely, game is lost
-- Player is presented with a map in very level and has to chose a path to navigate through
-- Every path has direction arrows to poin the way for the player
+- Player is presented with a map in very level and has to choose a path to navigate through
+- Every path has direction arrows to point the way for the player
 - Sanitizer restores some health for the player by killing virus they come in contact with
 - Masks help players not get infected, they disappear when in contact with virus
 - Players can find Mask stands and Sanitizer stations along their path
