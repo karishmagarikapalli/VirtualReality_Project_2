@@ -39,3 +39,5 @@ Here is the sketch of initial design of the level.
 ### Medium Level
 This level shows the map from West Hall to Student Union Building at Texas Tech University. In this level, there are a lot of Covid viruswhen compared to the beginner level, and less Sanitizer stations and Mask stands. There are other people in this level. The appearance of virus particles depend on how the population flow is in that area.
 Here is the sketch of initial design of the level.
+
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Medium_VR.png)
