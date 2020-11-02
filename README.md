@@ -38,4 +38,4 @@ Here is the sketch of initial design of the level.
 ### Expert Level
 This level shows the map fom West Hall to Media and Communications building at Texas tech University. In this level, we increased the population, virus and decreased sanitizers and mask stand to level up the game. Sketch of this level is given below.
 
-(https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/ExpertLevel.png)
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/ExpertLevel.png)
