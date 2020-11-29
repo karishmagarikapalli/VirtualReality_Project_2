@@ -51,4 +51,6 @@ This level shows the map fom West Hall to Media and Communications building at T
 - Nikhila: Team Roles
 - Karishma: Questions
 
-We will talk about this tomorrow and finalize
+## Changes due to time constraints
+## Why is this informative?
+## Final Contributions
