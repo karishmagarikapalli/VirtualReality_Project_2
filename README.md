@@ -63,9 +63,6 @@ We have made a few changes to the idea that we initially proposed, So the player
 
 Below are few images that help us understand the UI of the game ans also various stages in the game itself. 
 
-
-
-## Game Overview:
 The image below shows the main menu of the game with various options such as Play, Options, Quit and alos contains Demo and Help buttons for the player. 
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.54.40%20PM.png)
 The image below shows the options available for the game such as Volume and Graphics.
