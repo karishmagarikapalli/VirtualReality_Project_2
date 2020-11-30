@@ -76,10 +76,10 @@ This iamge is also a screenshot of the help tab from anaother angle to show the 
 This image lets the player know that he/she has succesfully completed the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.59.27%20PM.png)
 
-Thias image lets the player know that he/she has lost the game as they lost the life(health) because of various encounters with the virus.
+This image lets the player know that he/she has lost the game as they lost the life(health) because of various encounters with the virus.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.59.35%20PM.png)
 
-This image shows how the initial part of the game is when the user/player just enters the game, We can see the player, the virus and the game environment.
+This image shows how the initial part of the game is when the user/player just enters the game, We can see the player, the virus and the game environment and also the health bar on the top of the player which shows the percentage of life that the player has.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.02.22%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
