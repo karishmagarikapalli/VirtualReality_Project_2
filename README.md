@@ -53,6 +53,13 @@ This level shows the map fom West Hall to Media and Communications building at T
 
 ## Changes due to time constraints
 Due to the limited time contraint we have stick to only one level of the game where the player has the chance to select either one of two different levels namely, Safe and Risky. We have changed the evironment from Tech campus to a park to make it more universal and to have a broader reach and not just for Tech students and also for children.
+
 ## Why is this informative?
+This game helps the player understand the covid conditions and helps one to gain precationary measures such as a wearing a mask and also about sanitization. This game can  especially children to have an understanding of the covid situations in a better way, and how they can be safe while taking the necessary precautions.
+
 
 ## Final Contributions
+Nikhila- Terrain Design, Healthbar Design and Camera Settings.
+Rohith- Assets Collection, Model designs and Report.
+Karishma- UI Design, Safe path and Report.
+Vamsi- Scripting, Risky path and functionality.
