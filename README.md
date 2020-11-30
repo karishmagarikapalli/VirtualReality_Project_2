@@ -69,6 +69,9 @@ The image below shows the game instructions and also the rules, this can be acce
 
 This image is a screenshot of the help tab that provides the player about the game in general and how it can be played.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.57.07%20PM.png)
+
+This iamge is also a screenshot of the help tab from anaother angle to show the assets better.
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.58.36%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
