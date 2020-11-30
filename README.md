@@ -68,46 +68,50 @@ Scripting health, virus and masks was a bit of a challenge
 - Teamwork: We hit a dead end with Unity Teams (Not enough ram on some of our laptops for Unity to run smoothly), so we had to work on one single laptop and we made it work. If that doesn't say teamwork, I don't know what will.
 
 ## Game Overview:
-We have made a few changes to the idea that we initially proposed, So the player has to start from a initial point to the final destination dodging various covid particles that come along the players way. Whenever the player encounters with a covid particle they lose a significant part(50%) of their life and it can be shown on the healthbar above the player.Also for the first time when the player encounters the covid he loses the mask, and the mask on present near the healthbar disappers from the game, and whenever the player reaches a sanitizer he/she boosts their health by 30%, and also during the course of the game the player can also acess the masks present in the game environment.
+We have made a few changes to the idea that we initially proposed, So the player has to start from a initial point to the final destination dodging various COVID particles that come along the players way. Whenever the player encounters with a covid particle they lose a significant part (50%) of their life and it can be shown on the healthbar above the player. Also for the first time when the player encounters the covid he loses the mask, and the mask on present near the healthbar disappers from the game, and whenever the player reaches a sanitizer he/she boosts their health by 30%, and also during the course of the game the player can also acess the masks present in the game environment.
 
-Below are few images that help us understand the UI of the game ans also various stages in the game itself. 
+## Sneak Peek 
 
-The image below shows the main menu of the game with various options such as Play, Options, Quit and alos contains Demo and Help buttons for the player. 
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.54.40%20PM.png)
-The image below shows the options available for the game such as Volume and Graphics.
+The above is the first screen of the Game. Contains the Main Menu
 
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.55.19%20PM.png)
+The above is the Options Screen
 
-The image below shows the game instructions and also the rules, this can be accessed then the player clicks on the options button available on the main menu.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.55.39%20PM.png)
+The above is the Help screen
 
-This image is a screenshot of the help tab that provides the player about the game in general and how it can be played.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.57.07%20PM.png)
+The above is a peek on how the Demo looks like
 
-This iamge is also a screenshot of the help tab from anaother angle to show the assets better.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.58.36%20PM.png)
+The above is an another look at Demo
 
-This image lets the player know that he/she has succesfully completed the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.59.27%20PM.png)
+The above is what you see when you win!
 
-This image lets the player know that he/she has lost the game as they lost the life(health) because of various encounters with the virus.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.59.35%20PM.png)
+The above is what you see when you lose.
 
-This image shows how the initial part of the game is when the user/player just enters the game, We can see the player, the virus and the game environment and also the health bar on the top of the player which shows the percentage of life that the player has.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.02.22%20PM.png)
+The above shows the screen at START
 
-The image below depicts the option for the player to either choice between the two levels of the game namely, Safe path or the Risky path. The safe path has less number of covid virus and also there are no people in the path and also has a sanitizer station, this path can be considered as a easy level of the game.
-The Risky path has more number of virus particles and also in this path there are people present along the path. Both the paths have a common destination for the player to finish the game and converge before the final destination of the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.06.13%20PM.png)
+The above is the crossroad at which you can pick your path.
 
-The images below shows a sanitizer and also a mask(next image) in the game environment that can  be accessed by the player during the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.06.37%20PM.png)
-![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.07.10%20PM.png)
+The above shows a Sanitizer in the game
 
-Once the player chooses between the either paths he arrivies at a point after the convergance of the paths where the covid particles move and the player has to dodge these particles to reach the final destination. 
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.07.10%20PM.png)
+The above shows a Mask in the game
+
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.18.44%20PM.png)
+The above shows a peek at the risky path
+
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
 - Karishma: UI Design, Safe path and Report.
 - Vamsi: Scripting, Risky path and functionality.
+
+## Useful Links
