@@ -58,7 +58,7 @@ Due to the limited time contraint we have stick to only one level of the game wh
 This game helps the player understand the covid conditions and helps one to gain precationary measures such as a wearing a mask and also about sanitization. This game can  especially children to have an understanding of the covid situations in a better way, and how they can be safe while taking the necessary precautions.
 
 ## Game Overview:
-![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Medium_VR.png)
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.54.40%20PM.png)
 
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
