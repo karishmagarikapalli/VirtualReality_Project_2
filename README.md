@@ -81,6 +81,10 @@ This image lets the player know that he/she has lost the game as they lost the l
 
 This image shows how the initial part of the game is when the user/player just enters the game, We can see the player, the virus and the game environment and also the health bar on the top of the player which shows the percentage of life that the player has.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.02.22%20PM.png)
+
+The image below depicts the option for the player to either choice between the two levels of the game namely, Safe path or the Risky path. The safe path has less number of covid virus and also there are no people in the path and also has a sanitizer station, this path can be considered as a easy level of the game.
+The Risky path has more number of virus particles and also in this path there are people present along the path. Both the paths have a common destination for the player to finish the game and converge before the final destination of the game.
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.06.13%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
