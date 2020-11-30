@@ -86,7 +86,9 @@ The image below depicts the option for the player to either choice between the t
 The Risky path has more number of virus particles and also in this path there are people present along the path. Both the paths have a common destination for the player to finish the game and converge before the final destination of the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.06.13%20PM.png)
 
+The images below shows a sanitizer and also a mask(next image) in the game environment that can  be accessed by the player during the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.06.37%20PM.png)
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.07.10%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
