@@ -3,16 +3,32 @@
 The main idea of the game is to navigate through a terrain without catching COVID virus. A player enters the game at the begining of the terrain with a mask on and fully sanitized. Once the game starts, the player has to navigate through the terrain and reach a crossroad, at which a player can deciede if they want to choose a risky path or an easy path to reach the finish. As the player progresses through the terrain, they have to dodge various particles of viruses in the air (whose occurrence depends on how populous the environment is). In case they encounter a virus once, they lose their mask. When they encounter the virus again, they lose health points and eventually get infected (loose the game). The player can find sanitizer stations and masks along the way at a few places to restock and replenish their health. The end goal is for the player to reach the finish point.
 
 ## Game Rules
-- Ojective of the player is to reach from START to FINISH. 
-- If the player loses health completely, game is lost
-- Player is presented with a map in very level and has to choose a path to navigate through
-- Every path has direction arrows to point the way for the player
-- Sanitizer restores some health for the player by killing virus they come in contact with
-- Masks help players not get infected, they disappear when in contact with virus
-- Players can find Mask stands and Sanitizer stations along their path
-- Players may encounter other people along the way
-- They occurrance of other people will cause more virus particles to appear in the vicinity
-- Other people may be masked or unmasked, the appearance of the virus particles around them increases when they are unmasked
+### Player:
+- Main objective is to navigate from start to finish with mask and threshold health.
+- The game is lost when the player loses complete health.
+
+### COVID Virus Particles: (Loses 50 Points from health)
+- Negates mask mask upon contact
+- Depletes health of player 
+
+### Route:
+- Navigation path selected by the player from the available options on the map to reach finish 
+
+### Direction arrows:
+- Show players how to navigate the map once route is selected 
+
+### Masks: (Saves once from COVID virus)
+- Supplies masks to players 
+- Masks can protect players from being infected / attacked
+- Appearance decreases as the risk go up 
+
+### Sanitizer station: (Adds 30 points to health)
+- Sanitizer kills virus and Replenishes health
+- Lets player sanitize
+- Appearance decreases as the risk go up
+
+### Other people:
+- Act as obstacles, as they're surrounded by a lot of virus particles
 
 ## Initial Design Sketches
 ### Start Screen
@@ -116,6 +132,20 @@ The below shows the last part of the game
 - Rohith: Assets Collection, Model designs and Report.
 - Karishma: UI Design, Safe path and Report.
 - Vamsi: Scripting, Risky path and functionality.
+
+## Mid Review Feedback
+- This sounds like a Mario VR. Do the virus move? Are the masks hidden?
+-> PacMan was kind of our inspiration. Some virus particles move and some don't. Masks are openly available and are not hidden.
+
+- Are there any guidance on screen like a map Or how can we find or avoid items on the navigation paths? 
+-> There are navigation arrow board to guide the player. Items are visible and have to be manually avoided by the player.
+
+- Please make these clear and support users on navigating. Also, health status should be available. Are there any timer as in Super Mario?
+-> Support for navigation is provided. Health status is available. There are no timers.
+
+## Future Scope
+- Including more levels in different settings
+- Using voice as interface (speech recognition to select options)
 
 ## Useful Links
 - Report -> https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/README.md
