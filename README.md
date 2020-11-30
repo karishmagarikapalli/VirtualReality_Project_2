@@ -108,8 +108,8 @@ The above shows a Mask in the game
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.18.44%20PM.png)
 The above shows a peek at the risky path
 
+The below shows the last part of the game
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/moving_viruses.gif)
-The above shows the last part of the game
 
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
