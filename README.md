@@ -52,5 +52,7 @@ This level shows the map fom West Hall to Media and Communications building at T
 - Karishma: Questions
 
 ## Changes due to time constraints
+Due to the limited time contraint we have stick to only one level of the game where the player has the chance to select either one of two different levels namely, Safe and Risky. We have changed the evironment from Tech campus to a park to make it more universal and to have a broader reach and not just for Tech students and also for children.
 ## Why is this informative?
+
 ## Final Contributions
