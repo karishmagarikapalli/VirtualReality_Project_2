@@ -54,6 +54,11 @@ This level shows the map fom West Hall to Media and Communications building at T
 ## Changes due to time constraints
 Due to the limited time contraint we have stick to only one level of the game where the player has the chance to select either one of two different levels namely, Safe and Risky. We have changed the evironment from Tech campus to a park to make it more universal and to have a broader reach and not just for Tech students and also for children.
 
+## Game Overview:
+We have made a few changes to the idea that we initially proposed, So the player has to start from a initial point to the final destination dodging various covid particles that come along the players way. Whenever the player encounters with a covid particle they lose a significant part(50%) of their life and it can be shown on the healthbar above the player.Also for the first time when the player encounters the covid he loses the mask, and the mask on present near the healthbar disappers from the game, and whenever the player reaches a sanitizer he/she boosts their health by 30%, and also during the course of the game the player can also acess the masks present in the game environment.
+
+## Below are few images that help us understand the UI og the game ans also various stages in the game itself. 
+
 ## Why is this informative?
 This game helps the player understand the covid conditions and helps one to gain precationary measures such as a wearing a mask and also about sanitization. This game can  especially children to have an understanding of the covid situations in a better way, and how they can be safe while taking the necessary precautions.
 
