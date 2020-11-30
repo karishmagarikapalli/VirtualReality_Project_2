@@ -118,3 +118,8 @@ The below shows the last part of the game
 - Vamsi: Scripting, Risky path and functionality.
 
 ## Useful Links
+- Report -> https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/README.md
+- Project -> https://drive.google.com/drive/folders/15Bq252rsLsoCRYnG0LidkUb7pIt6Bn24?usp=sharing
+- Video Demo -> https://drive.google.com/file/d/1WdiV71jb3Wl1ecRUWXYECTvmZE7lBUmK/view?usp=sharing
+- Safe Path -> https://drive.google.com/file/d/15cjYJG-8qBTEmrEbbXCPeCaGV3UVlK9Y/view?usp=sharing
+- Risky Path -> https://drive.google.com/file/d/1Cp1-7d03s4DkP418RFhKsDFHbLp8S6e0/view?usp=sharing
