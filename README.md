@@ -66,6 +66,9 @@ The image below shows the options available for the game such as Volume and Grap
 
 The image below shows the game instructions and also the rules, this can be accessed then the player clicks on the options button available on the main menu.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.55.39%20PM.png)
+
+This image is a screenshot of the help tab that provides the player about the game in general and how it can be played.
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.57.07%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
