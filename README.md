@@ -59,7 +59,7 @@ This game helps the player understand the covid conditions and helps one to gain
 
 
 ## Final Contributions
-Nikhila- Terrain Design, Healthbar Design and Camera Settings.
-Rohith- Assets Collection, Model designs and Report.
-Karishma- UI Design, Safe path and Report.
-Vamsi- Scripting, Risky path and functionality.
+- Nikhila: Terrain Design, Healthbar Design and Camera Settings.
+- Rohith: Assets Collection, Model designs and Report.
+- Karishma: UI Design, Safe path and Report.
+- Vamsi: Scripting, Risky path and functionality.
