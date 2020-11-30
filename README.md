@@ -89,6 +89,9 @@ The Risky path has more number of virus particles and also in this path there ar
 The images below shows a sanitizer and also a mask(next image) in the game environment that can  be accessed by the player during the game.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.06.37%20PM.png)
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.07.10%20PM.png)
+
+Once the player chooses between the either paths he arrivies at a point after the convergance of the paths where the covid particles move and the player has to dodge these particles to reach the final destination. 
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%204.18.44%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
