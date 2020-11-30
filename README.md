@@ -72,6 +72,12 @@ This image is a screenshot of the help tab that provides the player about the ga
 
 This iamge is also a screenshot of the help tab from anaother angle to show the assets better.
 ![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.58.36%20PM.png)
+
+This image lets the player know that he/she has succesfully completed the game.
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.59.27%20PM.png)
+
+Thias image lets the player know that he/she has lost the game as they lost the life(health) because of various encounters with the virus.
+![Demo Design Sketch](https://github.com/karishmagarikapalli/VirtualReality_Project_2/blob/main/Screenshots/Screen%20Shot%202020-11-29%20at%203.59.35%20PM.png)
 ## Final Contributions
 - Nikhila: Terrain Design, Healthbar Design and Camera Settings.
 - Rohith: Assets Collection, Model designs and Report.
