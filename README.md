@@ -1,9 +1,9 @@
 # 2020: Survival
 ## Abstract
-The main idea of the game is to navigate through multiple levels of this game without catching COVID virus. A player enters each level outside of a building, with a mask on and fully sanitized. Once the game starts, the player has to navigate through a map to reach entrance of another building. As the player progresses through the level, they have to dodge various particles of viruses in the air (whose occurrence depends on how populous the environment is). In case they encounter a virus once, they lose their mask. When they encounter the virus again, they lose health points and eventually get infected (loose the game). The player can find sanitizer stations and masks along the way at a few places to restock and replenish their health. The end goal is for the player to reach the finish point with a mask on and with a threshold health level.
+The main idea of the game is to navigate through a terrain without catching COVID virus. A player enters the game at the begining of the terrain with a mask on and fully sanitized. Once the game starts, the player has to navigate through the terrain and reach a crossroad, at which a player can deciede if they want to choose a risky path or an easy path to reach the finish. As the player progresses through the terrain, they have to dodge various particles of viruses in the air (whose occurrence depends on how populous the environment is). In case they encounter a virus once, they lose their mask. When they encounter the virus again, they lose health points and eventually get infected (loose the game). The player can find sanitizer stations and masks along the way at a few places to restock and replenish their health. The end goal is for the player to reach the finish point.
 
 ## Game Rules
-- Ojective of the player is to reach FINISH, from START, of the level with a mask on and threshold health
+- Ojective of the player is to reach from START to FINISH. 
 - If the player loses health completely, game is lost
 - Player is presented with a map in very level and has to choose a path to navigate through
 - Every path has direction arrows to point the way for the player
@@ -51,12 +51,21 @@ This level shows the map fom West Hall to Media and Communications building at T
 - Nikhila: Team Roles
 - Karishma: Questions
 
-## Changes due to time constraints
-Due to the limited time contraint we have stick to only one level of the game where the player has the chance to select either one of two different levels namely, Safe and Risky. We have changed the evironment from Tech campus to a park to make it more universal and to have a broader reach and not just for Tech students and also for children.
+## Changes in the idea
+Initially we had a different idea for this project and were thinking around TTU campus. After some discussion, we decieded to go with something different. The final idea focuses on being an educational tool, especially for kids, to understand the safety regulations of COVID pandemic. Also, for a broader reach, we have implemented a more common terrain for an environment. To give it a more realistic and relatable aspect, we have implemented a risky path (representing busy streets) and a safer path (representing low populated areas)
 
-
-## Why is this informative?
-This game helps the player understand the covid conditions and helps one to gain precationary measures such as a wearing a mask and also about sanitization. This game can  especially children to have an understanding of the covid situations in a better way, and how they can be safe while taking the necessary precautions.
+## Checking the boxes
+- Innovative and Transformative: Represents a good educational tool for children to grasp COVID safety guidelines
+- Educating: Brings understanding on the COVID safety guidelines (Masks, Sanitize frequently, Social Distancing)
+- Interesting: Dodging bad guys is fun for kids! (cue: PacMan)
+- Visual appealing: We thought it was cute, did you?
+- Sound effects: We have them too!
+- Usability: It can be used as an educational tool and it is pretty simple to use too!
+- Technical challenges: Bringing together elements that worked perfectly, independently, was hard.
+Making the virus particles move was a challenge.
+Scripting health, virus and masks was a bit of a challenge
+- Effort: We went through a thousand tutorials to figure out Unity!
+- Teamwork: We hit a dead end with Unity Teams (Not enough ram on some of our laptops for Unity to run smoothly), so we had to work on one single laptop and we made it work. If that doesn't say teamwork, I don't know what will.
 
 ## Game Overview:
 We have made a few changes to the idea that we initially proposed, So the player has to start from a initial point to the final destination dodging various covid particles that come along the players way. Whenever the player encounters with a covid particle they lose a significant part(50%) of their life and it can be shown on the healthbar above the player.Also for the first time when the player encounters the covid he loses the mask, and the mask on present near the healthbar disappers from the game, and whenever the player reaches a sanitizer he/she boosts their health by 30%, and also during the course of the game the player can also acess the masks present in the game environment.
